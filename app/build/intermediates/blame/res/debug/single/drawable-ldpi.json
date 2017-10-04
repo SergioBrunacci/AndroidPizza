@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

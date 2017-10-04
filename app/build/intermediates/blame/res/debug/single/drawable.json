@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/895e4cf89c791ff2af9093189d03dd1a94b32275/output/res/drawable/abc_spinner_ab_holo_dark.xml"
+    }
+]

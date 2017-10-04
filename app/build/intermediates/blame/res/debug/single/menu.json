@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\speed.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/C:\\Classes\\COMP304\\class_examples_androidstudio\\MenuTest\\app\\src\\main\\res\\menu\\speed.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/menu/speed.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/src/main/res/menu/speed.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/build/intermediates/res/merged/debug/menu/size.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/MenuTest/app/src/main/res/menu/size.xml"
+    }
+]
